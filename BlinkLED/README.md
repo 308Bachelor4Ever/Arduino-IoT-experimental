@@ -4,7 +4,7 @@ BlinkLED does what it says: turns on and off (blinks) the small LED light on the
 
 ![](attachements/IMG_2259.jpeg)
 
-Use this program to configure the WiFi Module:
+Use the BlinkLED.ino program in this folder to configure the WiFi Module pictured below (ESP8266 with breakout board):
 
 ![](attachements/IMG_2127.jpeg)
 

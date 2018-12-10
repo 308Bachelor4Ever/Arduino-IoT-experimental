@@ -21,3 +21,4 @@ Linux:
 
 Once you have installed the necessary libraries you should be able to compile and run each .ino file found in each project folder. 
 
+Note: do not update libraries. This could break the project, and could require a degree of refactoring. Update libraries in the repo and notify in the commit if you are updating code against newer libraries. Do at your own risk!

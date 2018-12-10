@@ -11,6 +11,7 @@ Use this program to configure the WiFi Module:
 
 Connection scheme:
 ![](attachements/Kjell.com%20WiFi%20Arduino%20UNO.png)
+
 Illustrasjon laget med komponenter fra Fritzing (fritzing.org). CC BY-SA 3.0 - Kjell and Company
 
 By default the WiFi module is configured to communicate at 115 200 Bd (Baud Rate), but Software Serial only works at 9600 Bd. We need to reconfigure the WiFi module to use it in other projects. 

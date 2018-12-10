@@ -10,6 +10,7 @@ Use this program to configure the WiFi Module:
 
 
 Connection scheme:
+
 ![](attachements/Kjell.com%20WiFi%20Arduino%20UNO.png)
 
 Illustrasjon laget med komponenter fra Fritzing (fritzing.org). CC BY-SA 3.0 - Kjell and Company

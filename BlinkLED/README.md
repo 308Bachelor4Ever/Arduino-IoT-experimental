@@ -15,7 +15,7 @@ Connection scheme:
 
 Illustrasjon laget med komponenter fra Fritzing (fritzing.org). CC BY-SA 3.0 - Kjell and Company
 
-By default the WiFi module is configured to communicate at 115 200 Bd (Baud Rate), but Software Serial only works at 9600 Bd. We need to reconfigure the WiFi module to use it in other projects. 
+By default the WiFi module is configured to communicate at 115 200 Bd (Baud Rate), but Software Serial only works at 9600 Bd. We need to reconfigure the WiFi module to use it in other projects. To configure the module make sure that RXD is connected to pin 0 and TXD to pin 1 (from WiFi module to Arduino board). This is the same as the connection scheme shown above, but with the cables going to 6 and 7 placed on 0 and 1 instead. 
 
 1. Connect the WiFi module as specified in the image above. 
 2. Upload the BlinkLED sketch (Arduino IDE)

@@ -23,5 +23,5 @@ Once you have installed the necessary libraries you should be able to compile an
 
 Note: do not update libraries. This could break the project, and could require a degree of refactoring. Update libraries in the repo and notify in the commit if you are updating code against newer libraries. Do at your own risk!
 
-## Start using WiFi functionality
+## Start using WiFi functionality (step 1 to use most programs in this repo)
 Open the BlinkLED folder in this repository and follow the instructions. This is to configure the WiFi-module. 

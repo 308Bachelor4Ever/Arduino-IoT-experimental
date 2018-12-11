@@ -27,8 +27,8 @@ Note: do not update libraries. This could break the project, and could require a
 Open the BlinkLED folder in this repository and follow the instructions. This is to configure the WiFi-module. 
 
 ## Relevant folders for project report (in order):
-1. BlinkLED - for configuring WiFi module.
-2. GrandFinale - internet connected clock / thermometer connected to Thingspeak.
-3. WifiBlynk - LED control over internet using own WiFi implementation + Blynk.
-4. BlynkBlink - LED control over internet using only Blynk libraries.
-5. Neopixel Second - Neopixel ring testing (optional).
+0. BlinkLED - for configuring WiFi module.
+1. GrandFinale - internet connected clock / thermometer connected to Thingspeak.
+2. WifiBlynk - LED control over internet using own WiFi implementation + Blynk.
+3. BlynkBlink - LED control over internet using only Blynk libraries.
+4. Neopixel Second - Neopixel ring testing (optional).

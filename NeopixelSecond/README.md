@@ -4,6 +4,7 @@ This program turns on and off the LED lights of the Neopixel in a pattern. The p
 Connection scheme:
 
 ![](attachements/30-2_1.png)
+
 _Illustrasjon laget med komponenter fra Fritzing (fritzing.org). CC BY-SA 3.0_ - Kjell and Company
 
 Demo (GIF):

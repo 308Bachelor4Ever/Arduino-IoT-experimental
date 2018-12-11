@@ -6,6 +6,8 @@ This project is based on the “Kjell and Company” IoT project. The idea is si
 4. Upload temperature in intervals to Thingspeak to keep track of temperature changes over time. 
 5. Show on the display when data was last uploaded. 
 
+Sample data from Thingspeak: [Thingsspeak Public Data](https://thingspeak.com/channels/621187)
+
 Connection scheme:
 
 ![](attachements/33-1_3.png)
